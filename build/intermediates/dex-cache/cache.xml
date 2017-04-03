@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41a40a233f1a2fda18de45ee4a9d2844f7def552">
+        <dex dex="/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_10c5a63554fb96e3ebb14240196d3c3d8447a0b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8d4002b530c56c10e5cdbb14813ca14900fec068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_7f44e5598cb543ddc497281342c9b5fa78479477/classes.dex" />
+    </item>
+
+</items>

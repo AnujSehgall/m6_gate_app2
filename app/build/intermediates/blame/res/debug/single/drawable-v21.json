@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/anuj/.android/build-cache/50db62234c5c474f3aa17fc9a487d78ab5dba60f/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/anuj/.android/build-cache/8369ffbf35913477dc24e0fa89fe2ba41020f60c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/anuj/.android/build-cache/8369ffbf35913477dc24e0fa89fe2ba41020f60c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/anuj/.android/build-cache/50db62234c5c474f3aa17fc9a487d78ab5dba60f/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/anuj/.android/build-cache/50db62234c5c474f3aa17fc9a487d78ab5dba60f/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/anuj/.android/build-cache/8369ffbf35913477dc24e0fa89fe2ba41020f60c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/anuj/.android/build-cache/8369ffbf35913477dc24e0fa89fe2ba41020f60c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_641cdd0a1121008429d1f9e613367733_m6-assignment-gate-b-skeleton/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/anuj/.android/build-cache/50db62234c5c474f3aa17fc9a487d78ab5dba60f/output/res/drawable-v21/avd_hide_password.xml"
+    }
+]
